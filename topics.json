@@ -1,5 +1,10 @@
 {
   "topics": [
+    {"topicName" : "hw_status_steer_rotation", "topicType" : "string"},
+    {"topicName" : "hw_status_steer_motor", "topicType" : "string"},
+    {"topicName" : "hw_status_steer_brake", "topicType" : "string"},
+    {"topicName" : "hw_status_steer_clutch", "topicType" : "string"},
+
     {"topicName" : "steer_button_l_up", "topicType" : "string"},
     {"topicName" : "steer_button_l_left", "topicType" : "string"},
     {"topicName" : "steer_button_l_right", "topicType" : "string"},
